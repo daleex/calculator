@@ -14,6 +14,7 @@ console.log("3) Moltiplicazione");
 console.log("4) Divisione");
 console.log("5) Potenza");
 
+
 rl.question("Inserisci il numero dell'operazione desiderata: ", (operation) => {
     const operations = ["1", "2", "3", "4", "5"];
     if (!operations.includes(operation)) {
