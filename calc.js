@@ -6,6 +6,7 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
+
 console.log("Benvenuto nella Calcolatrice CLI!");
 console.log("Scegli un'operazione:");
 console.log("1) Addizione");
