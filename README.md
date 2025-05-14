@@ -49,6 +49,7 @@ Follow the prompts in the terminal to perform basic math operations.
 
 You can also use the math functions directly in your project by importing them:
 
+```js
 const { sum, diff, multiply, divide, pow } = require('./src/math');
 
 console.log(sum(1, 2));       // 3
@@ -56,6 +57,7 @@ console.log(diff(5, 3));      // 2
 console.log(multiply(4, 6));  // 24
 console.log(divide(10, 2));   // 5
 console.log(pow(2, 3));       // 8
+```
 
 ## Running Tests
 
