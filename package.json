@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "src/calc.js",
   "scripts": {
+    "start": "node src/calc.js",
     "test": "jest --coverage --ci --silent"
   },
   "keywords": [
