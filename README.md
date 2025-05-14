@@ -78,7 +78,7 @@ To view it:
 
 ## CI/CD with GitHub Actions
 
-This project includes a GitHub Actions workflow located at .github/workflows/node.js.yml.
+This project includes a GitHub Actions workflow located at .github/workflows/test.yml.
 
 It automatically:
 
