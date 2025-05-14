@@ -1,4 +1,4 @@
-const { sum, diff, multiply, divide, pow } = require('./math');
+const { sum, diff, multiply, divide, pow } = require('../src/math');
 
 test('adds 1 + 2 equals 3',()=>{
     expect(sum(1,2)).toBe(3);

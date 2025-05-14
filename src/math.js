@@ -15,5 +15,3 @@ function pow(a, b) {
 }
 
 module.exports = {sum, diff, multiply, divide, pow};
-
-console.log(module);

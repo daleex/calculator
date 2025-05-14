@@ -1,14 +1,30 @@
 {
-  "name": "math",
+  "name": "ssgs-calc",
   "version": "1.0.0",
-  "main": "math.js",
+  "main": "src/calc.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage --ci --silent"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "calculator", 
+    "math", 
+    "ssgs", 
+    "nodejs"
+  ],
+  "author": "daleex",
   "license": "ISC",
-  "description": "",
+  "description": "A simple calculator built with Node.js.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daleex/ssgs-calc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/daleex/ssgs-calc/issues" 
+  },
+  "homepage": "https://github.com/daleex/ssgs-calc#readme",  
+  "engines": {
+    "node": ">=14.0.0" 
+  },
   "devDependencies": {
     "jest": "^29.7.0"
   }
