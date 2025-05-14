@@ -44,6 +44,7 @@ Run the CLI calculator:
 
 ```bash
 npm start
+```
 Follow the prompts in the terminal to perform basic math operations.
 
 You can also use the math functions directly in your project by importing them:
@@ -60,6 +61,7 @@ console.log(pow(2, 3));       // 8
 
 ```bash
 npm test
+```
 - This runs all unit tests and generates a coverage report.
 - A summary will appear in the terminal.
 
