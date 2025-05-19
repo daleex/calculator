@@ -7,7 +7,7 @@ const rl = readline.createInterface({
 });
 
 
-console.log("Benvenuto nella Calcolatrice CLI!");
+console.log("Benvenuto in SSGS-Calculator!");
 console.log("Scegli un'operazione:");
 console.log("1) Addizione");
 console.log("2) Sottrazione");
